@@ -55,7 +55,7 @@ Two named entity types are provided initally for a particular relation for examp
 ## Run with basic configuration
 
 ```
-python main.py Evaluation/Eval_NYT/data/AnnotatedANLP_NYT__sample.txt  PER LOC 2
+python main.py "text_corpus"  PER LOC 2
 ```
 ### Authors
   * [Manzoor Ali](https://dice-research.org/ManzoorAli) (DICE, Paderborn University) 
